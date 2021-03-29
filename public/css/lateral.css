@@ -83,3 +83,11 @@
 #options{
     width: fit-content;
 }
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
