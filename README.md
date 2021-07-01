@@ -1,11 +1,11 @@
 # Hackathon Smiles
-  &nbsp; A aplicação aqui postada foi desenvolvido para atender ao deafio proposto na<a href="https://www.hackathonsmiles.com.br/"> Hackathon da Smiles </a>
+  &nbsp; A aplicação aqui postada foi desenvolvido para atender ao desafio proposto na<a href="https://www.hackathonsmiles.com.br/"> Hackathon da Smiles </a>
   , de desenvolver um projeto que fizesse com que um programa de fidelidade pudesse contribuir para viagens sejam sonhos mais acessíveis, inclusivos e democráticos.
   <br>
-  &nbsp; Nosso grupo então trabalhou com a idéia de uma rede social de viagens, onde fosse possível organizar as etapas de planejamento de viagens, criar grupos com outros turistas,
-  e receber ajuda  de um chatbot, carinhosamente apelidade de Mila (que é também o nome do próprio projeto),  para reservar restaurantes, vôos, hospedagens e entrada de passeio pagos.
+  &nbsp; Nosso grupo então trabalhou com a ideia de uma rede social de viagens, onde fosse possível organizar as etapas de planejamento de viagens, criar grupos com outros turistas,
+  e receber ajuda  de um chatbot, apelidada de Mila (que é também o nome do próprio projeto),  para reservar restaurantes, voos, hospedagens e entrada de passeio pagos.
      <br>
-    &nbsp; Ao todo, tivemos apenas 72 horas para desenvolver o projeto, e acredito que a parte mais desafiadora dessa empreitada foi a corrida contra o tempo, que fez com que o envio de todos os arquivos nos minutos finais fosse ainda mais emcionante.<br>
+    &nbsp; Ao todo, tivemos apenas 72 horas para desenvolver o projeto, e acredito que a parte mais desafiadora dessa empreitada foi a corrida contra o tempo, que fez com que o envio de todos os arquivos nos minutos finais fosse ainda mais emocionante.<br>
    <img align="center" src="http://pa1.narvii.com/5725/2f6a9716c1c4c9f5ff058ebcbe8123f61dcdf615_hq.gif" alt="this slowpoke moves"  />
    <br>
     &nbsp;
@@ -22,7 +22,7 @@ Clicar abaixo o levará para a página do YouTube com o vídeo :point_down:
 
 
 ## Intruções para instalação
-  &nbsp; Primeramente, se direcione para o diretório de sua máquina onde deseja ter a aplcação e digite no terminal:
+  &nbsp; Primeramente, se direcione para o diretório de sua máquina onde deseja ter a aplicação e digite no terminal:
    
   ```
    git clone https://github.com/henriqueramosqs/smiles_hackathon
@@ -33,7 +33,7 @@ Clicar abaixo o levará para a página do YouTube com o vídeo :point_down:
    ```
    npm start
    ```
-&nbsp; A aplicação estará rodando na porta 1111 e poderá ser acessada pelo browser de prefeênca em localhost:1111.
+&nbsp; A aplicação estará rodando na porta 1111 e poderá ser acessada pelo browser de preferênca em localhost:1111.
 
 ## Tecnologias utilizadas
 
