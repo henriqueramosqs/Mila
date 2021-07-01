@@ -10,7 +10,7 @@
    <br>
     &nbsp;
    Pelo curto tempo que nos foi dado, fomos instruídos que deveríamos enviar algo que demonstrasse as funcionalidades do projeto do que tivesse todas as funcionalidades
-   funcionando de fato, e assim fizemos. Contudo, o código aqui postado ainda será alterado e lapidado para ter mais fidelidade com o belo design desenvolvido pelos meus colegas de time //carinhosamente listados abaixo 
+   funcionando de fato, e assim fizemos. Contudo, o código aqui postado ainda será alterado e lapidado para ter mais fidelidade com o belo design desenvolvido pelos meus colegas de time carinhosamente listados  <a href="https://github.com/henriqueramosqs/smiles_hackathon/blob/main/README.md#membros-do-grupo">abaixo</a>
    
 ## Demonstração da Aplicação
 
@@ -53,5 +53,5 @@ Clicar abaixo o levará para a página do YouTube com o vídeo :point_down:
   <br>
    &nbsp;<a href="https://www.linkedin.com/in/lucin%C3%A9ia-cristo/">Lucinéia Cristo</a>
      <br>
-   &nbsp;<a href="https://www.linkedin.com/in/galofero">Diego Galorefro</a>
+   &nbsp;<a href="https://www.linkedin.com/in/galofero">Diego Galfero</a>
  
