@@ -5,12 +5,12 @@
   &nbsp; Nosso grupo então trabalhou com a idéia de uma rede social de viagens, onde fosse possível organizar as etapas de planejamento de viagens, criar grupos com outros turistas,
   e receber ajuda  de um chatbot carinhosamente apelidade de Mila(que é também o nome do próprio projeto)  para reservar restaurantes, vôos, hospedagens e entrada de passeio pagos.
      <br>
-    &nbsp; Ao todo, tivemos apenas 72 horas para desenvolver o projeto, e acredito que a parte mais desafiadora dessa empreitada foi a corrida contra o tempo, que fez com que o envio de todos os arquivos nos minutos finais fosse ainda mais emcionante<br>
+    &nbsp; Ao todo, tivemos apenas 72 horas para desenvolver o projeto, e acredito que a parte mais desafiadora dessa empreitada foi a corrida contra o tempo, que fez com que o envio de todos os arquivos nos minutos finais fosse ainda mais emcionante.<br>
    <img align="center" src="http://pa1.narvii.com/5725/2f6a9716c1c4c9f5ff058ebcbe8123f61dcdf615_hq.gif" alt="this slowpoke moves"  />
    <br>
     &nbsp;
    Pelo curto tempo que nos foi dado, fomos instruídos que deveríamos enviar algo que demonstrasse as funcionalidades do projeto do que tivesse todas as funcionalidades
-   funcionando de fato, e assim fizemos. Contudo, o código aqui postado ainda será alterado e lapidado para ter mais fidelidade com o belo design desenvolvido pelos meus colegas de time carinhosamente listados  <a href="https://github.com/henriqueramosqs/smiles_hackathon/blob/main/README.md#membros-do-grupo">abaixo</a>
+   funcionando de fato, e assim fizemos. Contudo, o código aqui postado ainda será alterado e lapidado para ter mais fidelidade com o belo design desenvolvido pelos meus colegas de time carinhosamente listados abaixo.
    
 ## Demonstração da Aplicação
 
