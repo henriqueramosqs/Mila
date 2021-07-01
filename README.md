@@ -53,7 +53,7 @@ Clicar abaixo o levará para a página do YouTube com o vídeo :point_down:
   <br>
    &nbsp;<a href="https://www.linkedin.com/in/lucin%C3%A9ia-cristo/">Lucinéia Cristo</a>
      <br>
-   &nbsp;<a href="https://www.linkedin.com/in/galofero">Diego Galfero</a>
+   &nbsp;<a href="https://www.linkedin.com/in/galofero">Diego Galofero</a>
    <br>
    &nbsp;<a href="https://www.linkedin.com/in/henrique-ramos-02b4151b0/">Henrique Ramos</a>
  
