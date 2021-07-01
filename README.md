@@ -29,7 +29,7 @@ Clicar abaixo o levará para a página do YouTube com o vídeo :point_down:
    ```
    
   &nbsp;Um arquivo com o nome de smiles_hackathon será clonado para a raíz do diretório escolhido.
-   &nbsp;Em seguida, vá para o diretório .../<nome do diretório escolhido>/smiles_hackathon e e digite no prompt
+   &nbsp;Em seguida, vá para o diretório .../<nome do diretório escolhido>/smiles_hackathon e e digite no prompt:
    ```
    npm start
    ```
