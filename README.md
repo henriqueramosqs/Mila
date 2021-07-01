@@ -22,7 +22,7 @@ Clicar abaixo o levará para a página do YouTube com o vídeo :point_down:
 
 
 ## Intruções para instalação
-  &nbsp; Primeramente, se direcione para o diretório de sua máquina onde deseja ter a aplcação e então digite no termnal:
+  &nbsp; Primeramente, se direcione para o diretório de sua máquina onde deseja ter a aplcação e digite no terminal:
    
   ```
    git clone https://github.com/henriqueramosqs/smiles_hackathon
@@ -33,7 +33,7 @@ Clicar abaixo o levará para a página do YouTube com o vídeo :point_down:
    ```
    npm start
    ```
-&nbsp; A aplicação estará rodando na porta 1111 e poderá ser acessada pelo browser de prefeênca em localhost:1111
+&nbsp; A aplicação estará rodando na porta 1111 e poderá ser acessada pelo browser de prefeênca em localhost:1111.
 
 ## Tecnologias utilizadas
 
