@@ -33,7 +33,7 @@ Clicar abaixo o levará para a página do YouTube com o vídeo :point_down:
    ```
    npm start
    ```
-&nbsp; A aplicação estará rodando na porta 1111 e poderá ser acessada pelo browser de preferênca em localhost:1111.
+&nbsp; A aplicação estará rodando na porta 1111 e poderá ser acessada pelo browser de preferênca em localhost:1111 .
 
 ## Tecnologias utilizadas
 
