@@ -1,6 +1,6 @@
 # Hackathon Smiles
-  &nbsp; A aplicação aqui postada foi desenvolvido para atender ao desafio proposto na<a href="https://www.hackathonsmiles.com.br/"> Hackathon da Smiles </a>
-  , de desenvolver um projeto que fizesse com que um programa de fidelidade pudesse contribuir para viagens sejam sonhos mais acessíveis, inclusivos e democráticos.
+  &nbsp; A aplicação aqui postada foi desenvolvida para atender ao desafio proposto na<a href="https://www.hackathonsmiles.com.br/"> Hackathon da Smiles </a>
+  , de criar um projeto que fizesse com que um programa de fidelidade pudesse contribuir para viagens sejam sonhos mais acessíveis, inclusivos e democráticos.
   <br>
   &nbsp; Nosso grupo então trabalhou com a ideia de uma rede social de viagens, onde fosse possível organizar as etapas de planejamento de viagens, criar grupos com outros turistas,
   e receber ajuda  de um chatbot, apelidada de Mila (que é também o nome do próprio projeto),  para reservar restaurantes, voos, hospedagens e entrada de passeio pagos.
@@ -9,7 +9,7 @@
    <img align="center" src="http://pa1.narvii.com/5725/2f6a9716c1c4c9f5ff058ebcbe8123f61dcdf615_hq.gif" alt="this slowpoke moves"  />
    <br>
     &nbsp;
-   Pelo curto tempo que nos foi dado, fomos instruídos que deveríamos enviar algo que demonstrasse as funcionalidades do projeto do que tivesse todas as funcionalidades
+   Pelo curto tempo que nos foi dado, fomos instruídos que deveríamos enviar algo que mais demonstrasse as funcionalidades do projeto do que tivesse todas as funcionalidades
    funcionando de fato, e assim fizemos. Contudo, o código aqui postado ainda será alterado e lapidado para ter mais fidelidade com o belo design desenvolvido pelos meus colegas de time carinhosamente listados abaixo.
    
 ## Demonstração da Aplicação
@@ -45,7 +45,7 @@ Clicar abaixo o levará para a página do YouTube com o vídeo :point_down:
 <img align="left" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <br>
-
+<br>
 ## Membros do grupo
    &nbsp;<a href ="https://www.linkedin.com/in/ianefadigas/o">Iane Fadigas</a>
   <br>
