@@ -45,8 +45,9 @@ Clicar abaixo o levará para a página do YouTube com o vídeo :point_down:
 <img align="left" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <br>
-<br>
+
 ## Membros do grupo
+
    &nbsp;<a href ="https://www.linkedin.com/in/ianefadigas/o">Iane Fadigas</a>
   <br>
    &nbsp;<a href ="https://www.linkedin.com/in/nadja-engenheiradeproducao">Nadja Eloy</a>
