@@ -1,41 +1,41 @@
-# Hackathon Smiles
-  &nbsp; A aplicação aqui postada foi desenvolvida para atender ao desafio proposto na<a href="https://www.hackathonsmiles.com.br/"> Hackathon da Smiles </a>
-  , de criar um projeto que fizesse com que um programa de fidelidade pudesse contribuir para viagens sejam sonhos mais acessíveis, inclusivos e democráticos.
+# Mila
+
+ &nbsp; The application posted here was developed to meet the challenge proposed in the<a href="https://www.hackathonsmiles.com.br/"> Smiles Hackathon </a>
+  , to create a project that would make a loyalty program contribute to making travel dreams more accessible, inclusive and democratic.
   <br>
-  &nbsp; Nosso grupo então trabalhou com a ideia de uma rede social de viagens, onde fosse possível organizar as etapas de planejamento de viagens, criar grupos com outros turistas,
-  e receber ajuda  de um chatbot, apelidada de Mila (que é também o nome do próprio projeto),  para reservar restaurantes, voos, hospedagens e entrada de passeio pagos.
+  &nbsp; Our group then worked with the idea of a travels social network, where it would be possible to organize the stages of travel planning, create groups with other tourists,
+  and receive help from a chatbot, nicknamed Mila (which is also the name of the project itself), to book restaurants, flights, accommodation and pay for tour tickets.
      <br>
-    &nbsp; Ao todo, tivemos apenas 72 horas para desenvolver o projeto, e acredito que a parte mais desafiadora dessa empreitada foi a corrida contra o tempo, que fez com que o envio de todos os arquivos nos minutos finais fosse ainda mais emocionante.<br>
-   <img align="center" src="http://pa1.narvii.com/5725/2f6a9716c1c4c9f5ff058ebcbe8123f61dcdf615_hq.gif" alt="this slowpoke moves"  />
+    &nbsp; In toral, we only had 72 hours to develop the project, and I believe the most challenging part of this endeavor was the race against time, which made uploading all the files in the final minutes even more exciting.<br>
+   <img align="center" src="http://pa1.narvii.com/5725/2f6a9716c1c4c9f5ff058ebcbe8123f61dcdf615_hq.gif" alt="this slowpoke moves" />
    <br>
     &nbsp;
-   Pelo curto tempo que nos foi dado, fomos instruídos que deveríamos enviar algo que mais demonstrasse as funcionalidades do projeto do que tivesse todas as funcionalidades
-   funcionando de fato, e assim fizemos. Contudo, o código aqui postado ainda será alterado e lapidado para ter mais fidelidade com o belo design desenvolvido pelos meus colegas de time carinhosamente listados abaixo.
+   For the short time we were given, we were instructed that we should send something that demonstrated the project's idea, instead of focusing on having all functionalities perfectly working. However, the code posted here will still be changed and polished to be more faithful to the beautiful design developed by my teammates affectionately listed below.
    
-## Demonstração da Aplicação
+## Website demo
 
-Clicar abaixo o levará para a página do YouTube com o vídeo :point_down:
+Clicking below will take you to an youtube page with the video :point_down:
 <br>
 [![vídeo da aplicação](https://img.youtube.com/vi/sY2M7lYj5qM/0.jpg)](https://www.youtube.com/watch?v=sY2M7lYj5qM)
 
 
 
 
-## Intruções para instalação
-  &nbsp; Primeramente, se direcione para o diretório de sua máquina onde deseja ter a aplicação e digite no terminal:
+## Intallation Intructions
+  &nbsp; First, head to the directory in your machine where you wish to have the aplication and type in the terminal:
    
   ```
    git clone https://github.com/henriqueramosqs/smiles_hackathon
    ```
    
-  &nbsp;Um arquivo com o nome de smiles_hackathon será clonado para a raíz do diretório escolhido.
-   &nbsp;Em seguida, vá para o diretório .../<nome do diretório escolhido>/smiles_hackathon e e digite no prompt:
+  &nbsp;A folder named "smiles_hackathon" will be cloned to the root of the chosen directory.
+   &nbsp;Then, go to ".../<application_root>/smiles_hackathon" and write on prompt:
    ```
    npm start
    ```
-&nbsp; A aplicação estará rodando na porta 1111 e poderá ser acessada pelo browser de preferênca em localhost:1111 .
+&nbsp; The app will be running on port 1111 and can be acessed through your favorite browser in localhost:1111.
 
-## Tecnologias utilizadas
+## Technologies used
 
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -46,7 +46,7 @@ Clicar abaixo o levará para a página do YouTube com o vídeo :point_down:
 <img align="left" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <br>
 
-## Membros do grupo
+## Group members
 
    &nbsp;<a href ="https://www.linkedin.com/in/ianefadigas/o">Iane Fadigas</a>
   <br>
